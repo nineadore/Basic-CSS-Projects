@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(235, 235, 235);
+}
+
+.post-img {
+  width: 350px;
+  border-bottom: 3px solid black;
+}
+
+.blog-post-card {
+  /* White Background */
+  background: white;
+  /* Rounded Corners */
+  border-radius: 10px;
+  /* Width of Card */
+  width: 350px;
+  /* Test Alignment */
+  text-align: center;
+
+  /* Box Shadow */
+  box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.1);
+
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.post-content {
+  padding: 0px 20px 20px;
+}
+
+.post-title {
+  color: rgb(55, 55, 55);
+  font-family: Tahoma;
+}
+
+.post-excerpt {
+  color: rgb(55, 55, 55);
+  font-family: Tahoma;
+  margin: 10px;
+  margin-bottom: 15px;
+}
+
+.read-more {
+  display: inline-block;
+  font-family: Tahoma;
+  color: white;
+  background-color: rgb(55, 55, 55);
+  padding: 10px;
+  border-radius: 10px;
+  margin: 1px;
+}
+
+.read-more:hover {
+  color: rgb(55, 55, 55);
+  background-color: rgb(184, 184, 184);
+  border: 3px solid rgb(55, 55, 55);
+}
