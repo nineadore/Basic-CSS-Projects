@@ -31,8 +31,8 @@ Each project in this repo helps me:
 
 ## 🚀 Tools Used
 
-- HTML5  
-- CSS3  
+- HTML  
+- CSS  
 - Visual Studio Code  
 - Git & GitHub  
 
